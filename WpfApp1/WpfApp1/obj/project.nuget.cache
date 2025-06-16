@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "FR2/uzdHDuo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Avtamonova.A.A\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avtamonova.A.A\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1004\\microsoft.office.interop.word.15.0.4797.1004.nupkg.sha512",
+    "C:\\Users\\Avtamonova.A.A\\.nuget\\packages\\microsoftofficecore\\15.0.0\\microsoftofficecore.15.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'MicrosoftOfficeCore 15.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\Avtamonova.A.A\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Avtamonova.A.A\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "libraryId": "MicrosoftOfficeCore",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
